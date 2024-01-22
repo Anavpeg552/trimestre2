@@ -1,5 +1,4 @@
 package Figuras;
-
 public class Punto {
 
     private double x;

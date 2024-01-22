@@ -1,10 +1,10 @@
 package Figuras;
 
 import java.util.Scanner;
-
+/*
 public class FiguraUtil {
 
-
+/*
     public static  TrianguloEquilatero crearTriangulo(Scanner sn){
         System.out.println("Introduce nombre de la figua:");
         String nombre=sn.next();
@@ -25,3 +25,4 @@ public class FiguraUtil {
         System.out.println("Area de "+f.getNombre()+":"+f.ca);
     }
 }
+*/

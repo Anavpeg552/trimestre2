@@ -26,7 +26,7 @@ public class FiguraMain {
                     Cuadrado cd1=new Cuadrado(2,"cd1");
                     break;
                 case 3:
-                    TrianguloEquilatero t1=new TrianguloEquilatero()
+                    //TrianguloEquilatero t1=new TrianguloEquilatero"(""");
             }
         }
     }
