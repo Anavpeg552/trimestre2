@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0295a907-130d-48e1-8c16-92689a36a2d9" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Animal/Gallina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Figuras/exceptions/LadoCuadradoNoValido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Persona/Docente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Persona/DocenteFP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Persona/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Persona/EstudianteFP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Persona/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Reloj/Reloj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Reloj/RelojBinario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Reloj/RelojCalendario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/Reloj/RelojMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/ficheros/Almacenamiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/ficheros/DocumentoTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/ficheros/FicheroMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/ficheros/Imagen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD5/src/ficheros/Rotable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ENDES/src/Figuras/Punto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENDES/src/Figuras/Punto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Figuras/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Figuras/Cuadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Figuras/FiguraMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Figuras/FiguraMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Figuras/FiguraUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Figuras/FiguraUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Figuras/exceptions/NombreFiguraNoValidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Figuras/exceptions/NombreFiguraNoValidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5/src/Reloj/Reloj.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Reloj/Reloj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD5/src/Reloj/RelojCalendario.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Reloj/RelojCalendario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +98,9 @@
       <workItem from="1705564869394" duration="4628000" />
       <workItem from="1705665020604" duration="5137000" />
       <workItem from="1705924728425" duration="4054000" />
-      <workItem from="1705928809873" duration="589000" />
+      <workItem from="1705928809873" duration="1700000" />
+      <workItem from="1705994585324" duration="5531000" />
+      <workItem from="1706080903357" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <option name="closed" value="true" />
@@ -129,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705394180963</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v1">
+      <option name="closed" value="true" />
+      <created>1705929642236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705929642236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
