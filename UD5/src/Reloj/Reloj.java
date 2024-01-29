@@ -99,8 +99,6 @@ public class Reloj {
             horaFormato=horaFormato+segundos;
         }
 
-
-
         return  horaFormato;
     }
 

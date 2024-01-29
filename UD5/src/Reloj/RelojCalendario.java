@@ -15,11 +15,17 @@ public class RelojCalendario extends Reloj{
         setMes(mes);
     }
 
+    public RelojCalendario(int dia, int mes, int anio) throws IllegalArgumentException{
+        setAnio(anio);
+        setDia(dia);
+        setMes(mes);
+    }
+
     public int getDia() {
         return dia;
     }
 
-    private void setDia(int dia) {
+    private void setDia(int dia) throws IllegalArgumentException{
         if(dia<1 || dia>31){
             throw new IllegalArgumentException("Dia Incorrecto");
         }
@@ -30,12 +36,12 @@ public class RelojCalendario extends Reloj{
         return mes;
     }
 
-    private void setMes(int mes) {
+    private void setMes(int mes) throws IllegalArgumentException{
         if(mes<1 || mes>12){
             throw new IllegalArgumentException("Mes Incorrecto");
         }
 
-        if(getDia() != mesDia[mes-1]){
+        if(getDia() > mesDia[mes-1]){
             throw new IllegalArgumentException("Mes Incorrecto");
         }
         this.mes = mes;
@@ -45,19 +51,23 @@ public class RelojCalendario extends Reloj{
         return anio;
     }
 
-    private void setAnio(int anio) {
+    private void setAnio(int anio) throws IllegalArgumentException {
 
-        if ((anio % 4 == 0) && ((anio % 100 != 0) || (anio % 400 == 0))){
-            mesDia[1]=29;
-        }else{
-            mesDia[1]=28;
+        if ((anio % 4 == 0) && ((anio % 100 != 0) || (anio % 400 == 0))) {
+            mesDia[1] = 29;
+        } else {
+            mesDia[1] = 28;
         }
 
-        if(anio<1800 || anio>2024){
+        if (anio < 1800 || anio > 2024) {
             throw new IllegalArgumentException("Anio Incorrecto");
         }
         this.anio = anio;
+
     }
 
-
+    @Override
+    public String toString() {
+        return dia+"-"+mes+"-"+anio +"______"+ super.toString();
+    }
 }

@@ -12,4 +12,6 @@ public class RelojBinario extends  Reloj{
         String binarioSegundos = String.format("%6s", Integer.toBinaryString(getSegundos())).replace(' ', '0');
         return binarioHoras + ":" + binarioMinutos + ":" + binarioSegundos;
     }
+
+
 }
