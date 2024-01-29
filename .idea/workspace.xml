@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0295a907-130d-48e1-8c16-92689a36a2d9" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/UD5/src/FigurasGeométricas/FiguraGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Reloj/Reloj.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Reloj/Reloj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Reloj/RelojBinario.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Reloj/RelojBinario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Reloj/RelojCalendario.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Reloj/RelojCalendario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD5/src/Reloj/RelojMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/UD5/src/Reloj/RelojMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="0295a907-130d-48e1-8c16-92689a36a2d9" name="Changes" comment="v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +19,38 @@
   </component>
   <component name="Git.Settings">
     <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="rama5" />
+                    <option name="lastUsedInstant" value="1706531073" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1706531072" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -106,7 +127,7 @@
       <workItem from="1705994585324" duration="5531000" />
       <workItem from="1706080903357" duration="8072000" />
       <workItem from="1706273509406" duration="1408000" />
-      <workItem from="1706529648202" duration="1082000" />
+      <workItem from="1706529648202" duration="1422000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <option name="closed" value="true" />
@@ -140,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706083351594</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v1">
+      <option name="closed" value="true" />
+      <created>1706531054486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706531054486</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
